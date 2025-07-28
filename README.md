@@ -74,13 +74,13 @@ The Details Dashboard streamlines access to critical loan data, facilitating inf
 
 
 #### Summary Dashboard
-![Summary Dashboard]([/Output/Summary.png](https://github.com/omkishorchavan/SQL-Power-BI-Bank-Loan-Analysis-Project/blob/main/Summary))
+![Summary Dashboard](https://github.com/omkishorchavan/SQL-Power-BI-Bank-Loan-Analysis-Project/blob/main/Summary.png)
 
 #### Overview Dashboard
-![Overview Dashboard]([/Output/Overview.png](https://github.com/omkishorchavan/SQL-Power-BI-Bank-Loan-Analysis-Project/blob/main/Overview))
+![Overview Dashboard](https://github.com/omkishorchavan/SQL-Power-BI-Bank-Loan-Analysis-Project/blob/main/Overview.png)
 
 #### Details Dashboard
-![Details Dashboard]([/Output/Details.png](https://github.com/omkishorchavan/SQL-Power-BI-Bank-Loan-Analysis-Project/blob/main/Details))
+![Details Dashboard](https://github.com/omkishorchavan/SQL-Power-BI-Bank-Loan-Analysis-Project/blob/main/Details.png)
 
 ### Contributing
 
